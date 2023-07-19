@@ -8,47 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jirachote Karunyakorn, graduated from Chulalongkorn University with M.Sc. degree in Bioinformatics.
+I am Jirachote Karunyakorn, a graduate of Chulalongkorn University with a Master's degree in Bioinformatics and Computational Biology. Now I am working as Clinical bioinformatics and analyst.
 
 My skill
 ======
-I am interested in biology since I was a kid. So I choose to study biology in Mahidol University. With first honor degree I can say that I quite have advance knowledge in this field. Especially in animal studies.
+Ever since I was a child, I have been fascinated by biology. Therefore, I chose to pursue a degree in biology at Mahidol University, where I graduated with first-class honors. As a result, I possess a considerable level of expertise in this field, particularly in animal studies.
 
-I start my programming in senior year of ungraduated with R (cause a lot of bioinformatics package there). Then I start to love it. So I decided to continue study programming along with biology that why I choose bioinformatics. I learned about python, R, SQL, bash and html.
+During my senior year of undergraduate studies, I began my foray into programming with R, primarily due to the abundance of bioinformatics packages available for it. This experience sparked my love for programming, leading me to decide to further pursue the study of programming alongside biology. Hence, I opted for bioinformatics as my specialization. Throughout my journey, I have acquired knowledge in Python, R, SQL, bash, and HTML.
 
+![bsc](https://github.com/manburst/JirachoteK.github.io/assets/68594551/aaa1e915-60aa-4daa-af77-13e03b016073)
+Graduated day at Mahidol University
 
-![2020_88 8 13_๒๐๐๘๑๓](https://github.com/manburst/JirachoteK.github.io/assets/68594551/8ee2830b-cf46-47dd-8f5e-377b4e13f754)
-
-
-Getting started
+My interested
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+As mentioned earlier, I have a deep fascination for Biology. To continuously expand my knowledge, I regularly read biology textbooks and research papers.I also work as a freelance high school biology tutor. Not only does this provide me with additional income, but it also serves as a means to assess my understanding of the subject matter.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Over the past three years, I have dedicated a significant amount of time to practicing coding, honing my analytical skills, and fostering critical thinking abilities. I believe that these skills will prove essential in the near future, as AI becomes increasingly accessible, comparable to widely-used tools like Google. I always remind myself that "if we to be come the pilot, we must surpass the co-pilots."
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+During my free time, I enjoy playing video games. I own a PS5 and a Nintendo Switch; however, since graduating and entering the workforce, I have had limited time to indulge in gaming, resulting in several games remaining unplayed.
 
-**Markdown generator**
+![1481029485074](https://github.com/manburst/JirachoteK.github.io/assets/68594551/5d572565-ac9b-4d9b-92a1-f10d303a6324) My first dog Touyfoo (her name is from chinese sweet which is fluffy and pink). She pass away when I start my master degree.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+![1634229662007](https://github.com/manburst/JirachoteK.github.io/assets/68594551/f693919f-ff9a-44b1-92c1-027d8d0bdf55) My second dog Muffin, after my touyfoo gone for 1 year, our family decided to adopt new dog. She is very energetic and noisy dog (her sound is like when you shout to the wall, it is so echo"
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
