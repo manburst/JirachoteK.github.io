@@ -16,6 +16,10 @@ I am interested in biology since I was a kid. So I choose to study biology in Ma
 
 I start my programming in senior year of ungraduated with R (cause a lot of bioinformatics package there). Then I start to love it. So I decided to continue study programming along with biology that why I choose bioinformatics. I learned about python, R, SQL, bash and html.
 
+
+![2020_88 8 13_๒๐๐๘๑๓](https://github.com/manburst/JirachoteK.github.io/assets/68594551/8ee2830b-cf46-47dd-8f5e-377b4e13f754)
+
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
