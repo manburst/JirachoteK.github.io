@@ -8,13 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I was born and raised in Nontaburi, Thailand. I have a Master's degree in Bioinformatics and Computational Biology from Chulalongkorn University, and a Bachelor's degree from Mahidol University. Currently, I'm working as a clinical bioinformatics and data analyst. My work involves identifying disease-causing mutations from sequencing data, creating bioinformatics pipelines for data analysis, and analyzing biological data to gain valuable insights.
+Born and raised in Nonthaburi, Thailand, graduated from Chulalongkorn University with a Master's degree in Bioinformatics and Computational Biology and from Mahidol University with a Bachelor's degree in Biology. Currently, working as a clinical bioinformatics and data analyst. The main objective is to identify disease-causing mutations from sequencing data, create bioinformatics pipelines for data analysis, and analyze biological data to gain valuable insights.
 
-My skill
+Higlighted skill
 ======
-I have a good understanding of biology, especially animal studies, because I've always loved watching animal documentaries like National Geographic since I was a kid. I stay updated by reading textbooks, journals, and news. I enjoy automating tasks with scripts to work efficiently and save time. I can code in Python, R, Bash, SQL, and HTML. Additionally, I can create informative dashboards using Power BI for monitoring and analysis. In bioinformatics, I'm experienced in data retrieval, sequence analysis, statistical analysis, and using tools like GATK, DESeq, BLAST, and EnrichR.
+**Biology**
+-In-depth knowledge of various biological concepts and principles, especially in genetics, OMICs studies and cell biology. 
+-Experienced in laboratory techniques, data analysis, and scientific research methodologies.
 
-During my M.Sc. program in Thailand, I developed important soft skills like critical thinking and analysis while doing research and answering questions from advisors and professors. I'm effective in business communication and negotiating deals for lab equipment. Maintaining a positive and growth-oriented mindset is crucial for my well-being. Collaboration is one of my strengths, enabling effective teamwork where we support and help each other. I'm adaptable and thrive in various situations and environments.
+**Programming language and data analysis software**
+-Proficient in Python, R, Bash, SQL, and HTML for data manipulation, analysis, and visualization.
+-Solid understanding of database management and querying.
+-Creating interactive and insightful dashboards using Power BI.
+
+**Bioinformatics**
+-Experience in sequence analysis, including DNA, RNA, and protein sequences.
+-Data retrieval, manipulation, and analysis for diverse biological datasets.
+-Strong knowledge of bioinformatics tools and software like GATK, DESeq, BLAST, and EnrichR.
+-Expertise in statistical analysis and the application of relevant methods in bioinformatics.
+-Competent in programming languages such as Python, R, and Bash for bioinformatics workflows.
+-Experience in developing and utilizing bioinformatics pipelines.
+
+**Soft Skills**
+-Critical Thinking and Analysis: Developed strong critical thinking abilities through research and addressing questions from advisors and professors.
+-Effective Business Communication and Negotiation: Successfully negotiated deals for lab equipment, showcasing excellent business communication skills.
+-Positive and Growth-Oriented Mindset: Maintained a positive outlook, fostering personal growth and resilience in demanding academic and professional environments.
+-Collaboration and Teamwork: Thrived in team settings, actively supporting and assisting team members to achieve common goals.
+-Adaptability: Demonstrated adaptability by excelling in various situations and environments, ensuring smooth progress in challenging projects.
+-Agile Methodologies: Applied agile principles to improve project management, enhancing adaptability and efficiency in data analysis workflows.
+-Data-Driven Decision Making: Proficient in making informed decisions through data analysis, contributing to evidence-based research outcomes.
+-Time Management: Strong ability to manage time effectively, meeting project deadlines and delivering high-quality results.
 
 ![bsc](https://github.com/manburst/JirachoteK.github.io/assets/68594551/1d38e83c-2399-4a46-99fe-733ff347b7d0)
 
