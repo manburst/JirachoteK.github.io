@@ -18,7 +18,8 @@ Experienced in laboratory techniques, data analysis, and scientific research met
 **Programming language and data analysis software**
 Proficient in Python, R, Bash, SQL, and HTML for data manipulation, analysis, and visualization.
 Solid understanding of database management and querying.
-*Creating interactive and insightful dashboards using Power BI.
+
+Creating interactive and insightful dashboards using Power BI.
 
 **Bioinformatics**
 Experience in sequence analysis, including DNA, RNA, and protein sequences.
