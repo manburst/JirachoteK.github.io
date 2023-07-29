@@ -1,4 +1,4 @@
----
+![image](https://github.com/manburst/JirachoteK.github.io/assets/68594551/2a9dceee-baab-4af2-8ab0-993fe5e61acd)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -13,31 +13,31 @@ Born and raised in Nonthaburi, Thailand, graduated from Chulalongkorn University
 Higlighted skill
 ======
 **Biology**
--In-depth knowledge of various biological concepts and principles, especially in genetics, OMICs studies and cell biology. 
--Experienced in laboratory techniques, data analysis, and scientific research methodologies.
+*In-depth knowledge of various biological concepts and principles, especially in genetics, OMICs studies and cell biology. 
+*Experienced in laboratory techniques, data analysis, and scientific research methodologies.
 
 **Programming language and data analysis software**
--Proficient in Python, R, Bash, SQL, and HTML for data manipulation, analysis, and visualization.
--Solid understanding of database management and querying.
--Creating interactive and insightful dashboards using Power BI.
+*Proficient in Python, R, Bash, SQL, and HTML for data manipulation, analysis, and visualization.
+*Solid understanding of database management and querying.
+*Creating interactive and insightful dashboards using Power BI.
 
 **Bioinformatics**
--Experience in sequence analysis, including DNA, RNA, and protein sequences.
--Data retrieval, manipulation, and analysis for diverse biological datasets.
--Strong knowledge of bioinformatics tools and software like GATK, DESeq, BLAST, and EnrichR.
--Expertise in statistical analysis and the application of relevant methods in bioinformatics.
--Competent in programming languages such as Python, R, and Bash for bioinformatics workflows.
--Experience in developing and utilizing bioinformatics pipelines.
+*Experience in sequence analysis, including DNA, RNA, and protein sequences.
+*Data retrieval, manipulation, and analysis for diverse biological datasets.
+*Strong knowledge of bioinformatics tools and software like GATK, DESeq, BLAST, and EnrichR.
+*Expertise in statistical analysis and the application of relevant methods in bioinformatics.
+*Competent in programming languages such as Python, R, and Bash for bioinformatics workflows.
+*Experience in developing and utilizing bioinformatics pipelines.
 
 **Soft Skills**
--Critical Thinking and Analysis: Developed strong critical thinking abilities through research and addressing questions from advisors and professors.
--Effective Business Communication and Negotiation: Successfully negotiated deals for lab equipment, showcasing excellent business communication skills.
--Positive and Growth-Oriented Mindset: Maintained a positive outlook, fostering personal growth and resilience in demanding academic and professional environments.
--Collaboration and Teamwork: Thrived in team settings, actively supporting and assisting team members to achieve common goals.
--Adaptability: Demonstrated adaptability by excelling in various situations and environments, ensuring smooth progress in challenging projects.
--Agile Methodologies: Applied agile principles to improve project management, enhancing adaptability and efficiency in data analysis workflows.
--Data-Driven Decision Making: Proficient in making informed decisions through data analysis, contributing to evidence-based research outcomes.
--Time Management: Strong ability to manage time effectively, meeting project deadlines and delivering high-quality results.
+*Critical Thinking and Analysis: Developed strong critical thinking abilities through research and addressing questions from advisors and professors.
+*Effective Business Communication and Negotiation: Successfully negotiated deals for lab equipment, showcasing excellent business communication skills.
+*Positive and Growth-Oriented Mindset: Maintained a positive outlook, fostering personal growth and resilience in demanding academic and professional environments.
+*Collaboration and Teamwork: Thrived in team settings, actively supporting and assisting team members to achieve common goals.
+*Adaptability: Demonstrated adaptability by excelling in various situations and environments, ensuring smooth progress in challenging projects.
+*Agile Methodologies: Applied agile principles to improve project management, enhancing adaptability and efficiency in data analysis workflows.
+*Data-Driven Decision Making: Proficient in making informed decisions through data analysis, contributing to evidence-based research outcomes.
+*ime Management: Strong ability to manage time effectively, meeting project deadlines and delivering high-quality results.
 
 ![bsc](https://github.com/manburst/JirachoteK.github.io/assets/68594551/1d38e83c-2399-4a46-99fe-733ff347b7d0)
 
