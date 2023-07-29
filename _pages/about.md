@@ -1,4 +1,3 @@
-![image](https://github.com/manburst/JirachoteK.github.io/assets/68594551/2a9dceee-baab-4af2-8ab0-993fe5e61acd)---
 permalink: /
 title: "About me"
 excerpt: "About me"
