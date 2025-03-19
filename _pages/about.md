@@ -67,5 +67,3 @@ And last but not least, I am a dog person. My first dog, Touyfoo, was named afte
 ![1481029485074](https://github.com/manburst/JirachoteK.github.io/assets/68594551/5d572565-ac9b-4d9b-92a1-f10d303a6324) My first dog, Touyfoo, pass away when I start my master degree.
 
 ![1634229662007](https://github.com/manburst/JirachoteK.github.io/assets/68594551/f693919f-ff9a-44b1-92c1-027d8d0bdf55) My second dog Muffin, after Touyfoo gone for 1 year, our family decided to adopt new dog.
-
-<iframe src="https://htmlpreview.github.io/?https://github.com/manburst/JirachoteK.github.io/blob/0f6c3e9b4a0d2cbf001a3b06255709c1db734d0a/images/Nationality-fee.html" frameborder="0" width="100%" height="500px"></iframe>
